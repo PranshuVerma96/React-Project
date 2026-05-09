@@ -13,9 +13,7 @@ const Button = () => {
         </h1>
 
         {/* Subtitle */}
-        <p className="mt-5 text-white text-lg md:text-2xl font-['Outfit'] tracking-wider">
-          React + Tailwind Interactive Color Changer
-        </p>
+        
 
         {/* Buttons */}
         <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
