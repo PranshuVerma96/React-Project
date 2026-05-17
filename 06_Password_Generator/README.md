@@ -2,6 +2,12 @@
 
 A modern and responsive Password Generator built with React and Tailwind CSS.
 
+
+
+## Live Demo 🚀
+
+🔗 Live Website: https://react-project-nzqg.vercel.app/
+
 ## Features
 
 * Generate strong random passwords
