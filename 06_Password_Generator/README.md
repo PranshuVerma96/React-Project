@@ -1,16 +1,41 @@
-# React + Vite
+# Password Generator 🔐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Password Generator built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Generate strong random passwords
+* Adjustable password length
+* Include numbers in password
+* Include special characters
+* Copy password to clipboard
+* Responsive and clean UI
+* Built using React Hooks
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Tailwind CSS
+* useState
+* useEffect
+* useCallback
+* useRef
 
-## Expanding the ESLint configuration
+## How It Works
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application generates secure random passwords based on user-selected options such as password length, numbers, and special characters. Users can instantly copy the generated password using the copy button.
+
+## Learning Concepts
+
+This project helped in understanding:
+
+* React Hooks
+* State management
+* Event handling
+* Dynamic UI updates
+* Clipboard API
+* Tailwind styling
+
+## Author
+
+Code With Pranshu
